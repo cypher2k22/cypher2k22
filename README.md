@@ -20,7 +20,7 @@ A full-stack mobile platform for passengers, drivers, and administrators with re
 ### 💻 Developer Portfolio
 My personal engineering portfolio showcasing projects, skills, and technical work.
 
-**React • TypeScript/JavaScript • Vite • Material UI**
+**React • TypeScript • Vite • Modern CSS**
 
 [View Repository](https://github.com/cypher2k22/portfolio-latest)
 
