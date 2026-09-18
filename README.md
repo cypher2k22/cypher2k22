@@ -1,70 +1,45 @@
 # 👋 Hi, I'm Bakeerathan Karthigan
 
-### Computer Engineering Undergraduate • Software Engineering
+### Computer Engineering Undergraduate | Software Engineering
 
-I'm a Computer Engineering undergraduate at the **University of Sri Jayewardenepura**, interested in building reliable software, full-stack applications, real-time systems, and practical engineering solutions.
+I'm a Computer Engineering undergraduate at the **University of Sri Jayewardenepura**, focused on building practical software and strengthening my foundations in **data structures, backend engineering, full-stack development, and systems**.
 
-I enjoy turning ideas into working systems and continuously improving my foundations in software engineering.
-
----
-
-## 🛠️ Technical Skills
-
-**Languages**
-
-C • C++ • Java • Python • JavaScript • TypeScript
-
-**Frontend**
-
-React • React Native • HTML • CSS
-
-**Backend**
-
-Node.js • Express • REST APIs
-
-**Databases & Cloud**
-
-MySQL • Firebase • Firestore
-
-**Systems & IoT**
-
-Linux • Networking • Raspberry Pi • Arduino • OpenCV
-
-**Tools**
-
-Git • GitHub • Docker • Vite
+I like turning ideas into working products, learning from real engineering problems, and improving projects through better architecture, testing, documentation, and deployment.
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Featured Work
 
-### 🚌 BusTrack
-
-Real-time public transport tracking platform connecting passengers, drivers, and administrators.
+### 🚌 BusTrack — Real-Time Public Transport Platform
+A full-stack mobile platform for passengers, drivers, and administrators with real-time bus tracking and map-based workflows.
 
 **React Native • TypeScript • Node.js • Firebase • Google Maps**
 
 [View Repository](https://github.com/cypher2k22/BUS_TRACKER_PRO)
 
-### 🌐 Developer Portfolio
+### 💻 Developer Portfolio
+My personal engineering portfolio showcasing projects, skills, and technical work.
 
-Responsive personal portfolio built with React and Material UI.
+**React • TypeScript/JavaScript • Vite • Material UI**
 
-**React • JavaScript • Material UI • Vite**
-
-[View Repository](https://github.com/cypher2k22/portfolio)
+[View Repository](https://github.com/cypher2k22/portfolio-latest)
 
 ### ⚙️ Task Management System
+A full-stack application organized around frontend/backend separation and API-driven workflows.
 
-Full-stack application demonstrating frontend/backend separation and API-driven workflows.
-
-**Python • Frontend • REST API**
+**Python • REST APIs • Frontend • Backend**
 
 [View Repository](https://github.com/cypher2k22/taskmanagement)
 
-### 📊 Student Performance Analysis
+### 🌐 Website Development
+A full-stack web project focused on frontend/backend integration and deployment.
 
-Python-based analysis exploring relationships between student performance and preparation/demographic factors.
+**Web Development • Backend • Deployment**
+
+[View Repository](https://github.com/cypher2k22/websitedevolepment)
+
+### 📊 Student Performance Analysis
+A Python data-analysis project exploring relationships within student examination data.
 
 **Python • Pandas • Data Analysis**
 
@@ -72,34 +47,50 @@ Python-based analysis exploring relationships between student performance and pr
 
 ---
 
-## 🎓 Education
+## 🛠️ Technical Stack
 
-**B.Sc. / Undergraduate in Computer Engineering**
-University of Sri Jayewardenepura
-Expected Graduation: 2028
+| Area | Technologies |
+|---|---|
+| Languages | C, C++, Java, Python, JavaScript, TypeScript |
+| Frontend | React, React Native, HTML, CSS |
+| Backend | Node.js, Express, REST APIs |
+| Databases | MySQL, Firebase, Firestore |
+| Systems | Linux, Networking, Raspberry Pi, Arduino, OpenCV |
+| Tools | Git, GitHub, Docker, Vite |
 
 ---
 
-## 📈 Currently Improving
+## 🎓 Education
 
-* Data Structures & Algorithms
-* Backend engineering
-* System design fundamentals
-* Database design
-* Testing and CI/CD
-* Cloud and deployment
-* Competitive programming
+**Computer Engineering Undergraduate**  
+University of Sri Jayewardenepura  
+**Expected Graduation: 2028**
+
+---
+
+## 📈 Currently Building
+
+- Stronger Data Structures & Algorithms fundamentals
+- Backend and API engineering
+- Database design
+- System design fundamentals
+- Testing and CI/CD
+- Cloud and deployment skills
+- Production-quality projects
 
 ---
 
 ## 🤝 Open To
 
-Software engineering internships • Full-stack development • Backend development • Collaborative engineering projects
+**Software Engineering Internships • Full-Stack Development • Backend Development • Collaborative Engineering Projects**
 
 ---
 
 ## 🔗 Connect
 
-**GitHub:** https://github.com/cypher2k22
+**GitHub:** [cypher2k22](https://github.com/cypher2k22)  
+**LinkedIn:** [Bakeerathan Karthigan](https://www.linkedin.com/in/bakeerathan-karthigan-529a56256)
 
-**LinkedIn:** https://www.linkedin.com/in/bakeerathan-karthigan-529a56256
+---
+
+> 💡 Building consistently. Learning deeply. Shipping better software.
